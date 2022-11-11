@@ -1,3 +1,5 @@
+HO SBAGLIATO E L'HO CREATO COME FILE DI TESTO INVEDE DI CARICARLO COME FILE DI JAVA
+
 class ES3 {
     public static void main(String[] args) {
         //  Dichiarazioni variabili da sommare
